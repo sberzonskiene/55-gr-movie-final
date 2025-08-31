@@ -41,7 +41,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/55-grupe-final-fantasy.git
+    git clone https://github.com/sberzonskiene/55-gr-movie-final
     ```
 2. Install main NPM packages
     ```sh
@@ -60,9 +60,9 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 There is no tests for this project.
 
-## 🎅 Authors
+## 🌺 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Sotera: [Github](https://github.com/sberzonskiene)
 
 ## ⚠️ License
 
