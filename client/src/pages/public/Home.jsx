@@ -11,10 +11,10 @@ export function HomePage() {
                             width={700} height={500} loading="lazy" />
                     </div>
                     <div className="col-lg-6">
-                        <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3">Final fantasy movies listing</h1>
+                        <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3">Final movies listing</h1>
                         <p className="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
                         <div className="d-grid gap-2 d-md-flex justify-content-md-start">
-                            <Link href="/movies" className="btn btn-primary btn-lg px-4 me-md-2">All movies</Link>
+                            <Link to="/movies" className="btn btn-primary btn-lg px-4 me-md-2">All movies</Link>
                         </div>
                     </div>
                 </div>

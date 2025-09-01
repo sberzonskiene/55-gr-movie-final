@@ -11,7 +11,7 @@ export function CategoriesPage() {
             <PublicPageTitle title='Categories' />
 
             <div className="container px-4" id="featured-3">
-                <div className="row g-4 row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
+                <div className="row g-4 row-cols-1 row-cols-lg-3">
                     {publicCategories.map(category => <CategoryCard key={category.title} category={category} />)}
                 </div>
             </div>
