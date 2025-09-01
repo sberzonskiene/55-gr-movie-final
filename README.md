@@ -40,9 +40,9 @@ https://git-scm.com
 Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
-    ```sh
+
      git clone https://github.com/sberzonskiene/55-gr-movie-final 
-    ```
+    
 2. Install main NPM packages
     ```sh
     npm i
